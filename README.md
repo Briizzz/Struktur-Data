@@ -1,5 +1,5 @@
 # <h1 align="center">Evaluasi Penilaian Tengah Semester Struktur Data</h1>
-<p align="center">Brian Nugraha Wiyono</p>
+<p align="center">Brian Nugraha Wiyono / 2311110052 / S1SD04-A</p>
 
 ## SubCPMK 2
 
